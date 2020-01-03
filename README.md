@@ -10,8 +10,8 @@
 |1|자동차 경주|https://github.com/dasistHYOJIN/java-racingcar|[클릭](https://github.com/woowacourse/java-racingcar/pull/45)|
 |2|사다리 타기|https://github.com/dasistHYOJIN/java-ladder|[클릭](https://github.com/woowacourse/java-ladder/pull/20)|
 |3|좌표 계산기|https://github.com/dasistHYOJIN/java-coordinate|[클릭](https://github.com/woowacourse/java-coordinate/pull/26)|
-|4|로또|https://github.com/dasistHYOJIN/java-lotto|[Step1](https://github.com/woowacourse/java-lotto/pull/45)|
-|5|로또 - 웹, DB|https://github.com/dasistHYOJIN/java-lotto|[Step2](https://github.com/woowacourse/java-lotto/pull/95)|
+|4|로또|https://github.com/dasistHYOJIN/java-lotto|[클릭](https://github.com/woowacourse/java-lotto/pull/45)|
+|5|로또 - 웹, DB|https://github.com/dasistHYOJIN/java-lotto|[클릭](https://github.com/woowacourse/java-lotto/pull/95)|
 |6|체스|https://github.com/dasistHYOJIN/java-chess|[클릭](https://github.com/woowacourse/java-chess/pull/43)|
 
 ### 📝 글쓰기
@@ -36,14 +36,14 @@
 ### 👩‍💻 미션
 |no.|미션명|링크|코드리뷰|
 |---|---|---|---|
-|1|HTTP 이해 - 웹 서버|https://github.com/dasistHYOJIN/jwp-was/tree/dasistHYOJIN|[Step 1](https://github.com/woowacourse/jwp-was/pull/31)|
-|2|HTTP 이해 - 로그인 및 세션|https://github.com/dasistHYOJIN/jwp-was/tree/step2|[Step 2](https://github.com/woowacourse/jwp-was/pull/69)|
-|3|MVC - 자바 reflection과 @MVC|https://github.com/dasistHYOJIN/jwp-mvc/tree/step1|[Step 1](https://github.com/woowacourse/jwp-mvc/pull/24)|
-|4|MVC -  View|https://github.com/dasistHYOJIN/jwp-mvc/tree/step2|[Step 2](https://github.com/woowacourse/jwp-mvc/pull/66)|
-|5|나만의 라이브러리 - JDBC 라이브러리|https://github.com/dasistHYOJIN/jwp-jdbc/tree/step1|[Step 1](https://github.com/woowacourse/jwp-jdbc/pull/6)|
-|6|나만의 라이브러리 - 대용량 데이터 처리|https://github.com/dasistHYOJIN/jwp-jdbc/tree/step2|[Step 2](https://github.com/woowacourse/jwp-jdbc/pull/94)|
-|7|DI - DI 프레임워크|https://github.com/dasistHYOJIN/jwp-di/tree/step1|[Step 1](https://github.com/woowacourse/jwp-di/pull/44)|
-|8|DI -  @Configuration 설정|https://github.com/dasistHYOJIN/jwp-di/tree/step2|[Step 2](https://github.com/woowacourse/jwp-di/pull/80)|
+|1|HTTP 이해 - 웹 서버|https://github.com/dasistHYOJIN/jwp-was/tree/dasistHYOJIN|[클릭](https://github.com/woowacourse/jwp-was/pull/31)|
+|2|HTTP 이해 - 로그인 및 세션|https://github.com/dasistHYOJIN/jwp-was/tree/step2|[클릭](https://github.com/woowacourse/jwp-was/pull/69)|
+|3|MVC - 자바 reflection과 @MVC|https://github.com/dasistHYOJIN/jwp-mvc/tree/step1|[클릭](https://github.com/woowacourse/jwp-mvc/pull/24)|
+|4|MVC -  View|https://github.com/dasistHYOJIN/jwp-mvc/tree/step2|[클릭](https://github.com/woowacourse/jwp-mvc/pull/66)|
+|5|나만의 라이브러리 - JDBC 라이브러리|https://github.com/dasistHYOJIN/jwp-jdbc/tree/step1|[클릭](https://github.com/woowacourse/jwp-jdbc/pull/6)|
+|6|나만의 라이브러리 - 대용량 데이터 처리|https://github.com/dasistHYOJIN/jwp-jdbc/tree/step2|[클릭](https://github.com/woowacourse/jwp-jdbc/pull/94)|
+|7|DI - DI 프레임워크|https://github.com/dasistHYOJIN/jwp-di/tree/step1|[클릭](https://github.com/woowacourse/jwp-di/pull/44)|
+|8|DI -  @Configuration 설정|https://github.com/dasistHYOJIN/jwp-di/tree/step2|[클릭](https://github.com/woowacourse/jwp-di/pull/80)|
 
 ### 📝 글쓰기
 * [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/dasistHYOJIN/woowa-writing-1/blob/dasistHYOJIN/lv3_%EC%84%B1%EC%88%99.md)
