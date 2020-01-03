@@ -10,8 +10,9 @@
 |1|자동차 경주|https://github.com/dasistHYOJIN/java-racingcar|[클릭](https://github.com/woowacourse/java-racingcar/pull/45)|
 |2|사다리 타기|https://github.com/dasistHYOJIN/java-ladder|[클릭](https://github.com/woowacourse/java-ladder/pull/20)|
 |3|좌표 계산기|https://github.com/dasistHYOJIN/java-coordinate|[클릭](https://github.com/woowacourse/java-coordinate/pull/26)|
-|4|로또|https://github.com/dasistHYOJIN/java-lotto|[Step1](https://github.com/woowacourse/java-lotto/pull/45)</br>  [Step2](https://github.com/woowacourse/java-lotto/pull/95)|
-|5|체스|https://github.com/dasistHYOJIN/java-chess|[클릭](https://github.com/woowacourse/java-chess/pull/43)|
+|4|로또|https://github.com/dasistHYOJIN/java-lotto|[Step1](https://github.com/woowacourse/java-lotto/pull/45)|
+|5|로또 - 웹, DB|https://github.com/dasistHYOJIN/java-lotto|[Step2](https://github.com/woowacourse/java-lotto/pull/95)|
+|6|체스|https://github.com/dasistHYOJIN/java-chess|[클릭](https://github.com/woowacourse/java-chess/pull/43)|
 
 ### 📝 글쓰기
 * [우아한테크코스 한 달 생활기](https://github.com/dasistHYOJIN/woowa-writing-1/blob/dasistHYOJIN/lv1_%EA%B8%B0%EB%A1%9D.md)
@@ -25,7 +26,7 @@
 |2|Spring Data JPA / 회원 관련|https://github.com/dasistHYOJIN/jwp-blog/tree/dasistHYOJIN|[클릭](https://github.com/woowacourse/jwp-blog/pull/92)|
 |3|빌드&배포 구성 / 댓글 관련|https://github.com/dasistHYOJIN/jwp-blog/tree/step3|[클릭](https://github.com/woowacourse/jwp-blog/pull/127)|
 |4|비동기 통신&API / 댓글 추가|https://github.com/dasistHYOJIN/jwp-blog/tree/step4|[클릭](https://github.com/woowacourse/jwp-blog/pull/198)|
-|5|미니 프로젝트|https://github.com/dasistHYOJIN/miniprojects-2019|[Step1](https://github.com/woowacourse/miniprojects-2019/pull/4)</br> [Step2](https://github.com/woowacourse/miniprojects-2019/pull/19)</br> [Step3](https://github.com/woowacourse/miniprojects-2019/pull/31)|
+|5|미니 프로젝트|https://github.com/dasistHYOJIN/miniprojects-2019|[Week 1](https://github.com/woowacourse/miniprojects-2019/pull/4)</br> [Week 2](https://github.com/woowacourse/miniprojects-2019/pull/19)</br> [Week 3](https://github.com/woowacourse/miniprojects-2019/pull/31)|
 
 ### 📝 글쓰기
 * [우테코에서 찾은 나만의 효과적인 공부법](https://github.com/dasistHYOJIN/woowa-writing-1/blob/dasistHYOJIN/lv2_%EC%84%B1%EC%9E%A5.md)
@@ -35,10 +36,14 @@
 ### 👩‍💻 미션
 |no.|미션명|링크|코드리뷰|
 |---|---|---|---|
-|1|HTTP 이해 - 웹 서버|Step1: https://github.com/dasistHYOJIN/jwp-was/tree/dasistHYOJIN</br> Step2: https://github.com/dasistHYOJIN/jwp-was/tree/step2|[Step 1](https://github.com/woowacourse/jwp-was/pull/31)</br> [Step 2](https://github.com/woowacourse/jwp-was/pull/69)|
-|2|MVC - @MVC 프레임워크|Step1: https://github.com/dasistHYOJIN/jwp-mvc/tree/step1</br> Step2: https://github.com/dasistHYOJIN/jwp-mvc/tree/step2|[Step 1](https://github.com/woowacourse/jwp-mvc/pull/24)</br> [Step 2](https://github.com/woowacourse/jwp-mvc/pull/66)|
-|3|나만의 라이브러리|Step1: https://github.com/dasistHYOJIN/jwp-jdbc/tree/step1</br> Step2: https://github.com/dasistHYOJIN/jwp-jdbc/tree/step2|[Step 1](https://github.com/woowacourse/jwp-jdbc/pull/6)</br> [Step 2](https://github.com/woowacourse/jwp-jdbc/pull/94)|
-|4|DI - DI 프레임워크 구현|Step1: https://github.com/dasistHYOJIN/jwp-di/tree/step1</br> Step2: https://github.com/dasistHYOJIN/jwp-di/tree/step2|[Step 1](https://github.com/woowacourse/jwp-di/pull/44)</br> [Step 2](https://github.com/woowacourse/jwp-di/pull/80)|
+|1|HTTP 이해 - 웹 서버|https://github.com/dasistHYOJIN/jwp-was/tree/dasistHYOJIN|[Step 1](https://github.com/woowacourse/jwp-was/pull/31)|
+|2|HTTP 이해 - 로그인 및 세션|https://github.com/dasistHYOJIN/jwp-was/tree/step2|[Step 2](https://github.com/woowacourse/jwp-was/pull/69)|
+|3|MVC - 자바 reflection과 @MVC|https://github.com/dasistHYOJIN/jwp-mvc/tree/step1|[Step 1](https://github.com/woowacourse/jwp-mvc/pull/24)|
+|4|MVC -  View|https://github.com/dasistHYOJIN/jwp-mvc/tree/step2|[Step 2](https://github.com/woowacourse/jwp-mvc/pull/66)|
+|5|나만의 라이브러리 - JDBC 라이브러리|https://github.com/dasistHYOJIN/jwp-jdbc/tree/step1|[Step 1](https://github.com/woowacourse/jwp-jdbc/pull/6)|
+|6|나만의 라이브러리 - 대용량 데이터 처리|https://github.com/dasistHYOJIN/jwp-jdbc/tree/step2|[Step 2](https://github.com/woowacourse/jwp-jdbc/pull/94)|
+|7|DI - DI 프레임워크|https://github.com/dasistHYOJIN/jwp-di/tree/step1|[Step 1](https://github.com/woowacourse/jwp-di/pull/44)|
+|8|DI -  @Configuration 설정|https://github.com/dasistHYOJIN/jwp-di/tree/step2|[Step 2](https://github.com/woowacourse/jwp-di/pull/80)|
 
 ### 📝 글쓰기
 * [내가 꿈꾸는 프로그래머로서의 삶](https://github.com/dasistHYOJIN/woowa-writing-1/blob/dasistHYOJIN/lv3_%EC%84%B1%EC%88%99.md)
